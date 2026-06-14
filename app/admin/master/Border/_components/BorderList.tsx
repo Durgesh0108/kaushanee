@@ -25,7 +25,7 @@ export default function BorderList({ categories }) {
   const [Border, setBorder] = useState([]);
 
   const [SelectedCategory, setSelectedCategory] = useState<string | undefined>(
-    category[0].id
+    category[0]?.id
   );
 
   const handleDelete = async (id: string) => {

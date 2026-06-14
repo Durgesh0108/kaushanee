@@ -25,7 +25,7 @@ export default function WeaveTypeList({ weaves }) {
   const [WeaveTypes, setWeaveTypes] = useState([]);
 
   const [selectedWeave, setSelectedWeave] = useState<string | undefined>(
-    Weaves[0].id
+    Weaves[0]?.id
   );
 
   const handleDelete = async (id: string) => {

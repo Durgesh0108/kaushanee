@@ -25,7 +25,7 @@ export default function ButtiTypeList({ categories }) {
   const [ButtiType, setButtiType] = useState([]);
 
   const [SelectedCategory, setSelectedCategory] = useState<string | undefined>(
-    category[0].id
+    category[0]?.id
   );
 
   const handleDelete = async (id: string) => {

@@ -25,7 +25,7 @@ export default function ZariList({ categories }) {
   const [Zari, setZari] = useState([]);
 
   const [SelectedCategory, setSelectedCategory] = useState<string | undefined>(
-    category[0].id
+    category[0]?.id
   );
 
   const handleDelete = async (id: string) => {
