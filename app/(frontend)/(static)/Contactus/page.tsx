@@ -113,19 +113,19 @@ const ContactUs: React.FC = () => {
           <p className="text-lg mt-8">
             You can also reach us directly at:{" "}
             <a
-              href="mailto:support@kaushanee.com"
+              href="mailto:kaushanee@gmail.com"
               className="text-blue-600 hover:underline"
             >
-              support@kaushanee.com
+              kaushanee@gmail.com
             </a>
           </p>
           <p className="text-lg">
             Or call us at:{" "}
             <a
-              href="tel:+911234567890"
+              href="tel:+919876543210"
               className="text-blue-600 hover:underline"
             >
-              +91 123-456-7890
+              9876543210
             </a>
           </p>
         </div>

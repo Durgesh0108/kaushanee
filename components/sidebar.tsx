@@ -230,12 +230,12 @@ export default function Sidebar() {
       {/* <div className="flex flex-col min-h-screen h-full min-w-fit p-8  text-white">
         <div className="flex gap-4 items-end">
           <Link href={"/dashboard"}>
-            <Image src={r5logo} width={40} height={40} alt="R5 Design Hub" />
+            <Image src={r5logo} width={40} height={40} alt="Trillion Game Media" />
           </Link>
           <h1 className="mb-2">Admin</h1>
           <ToggleTheme />
         </div>
-        <h1 className="font-bold text-[0.75rem] my-4 ">R5 Design Hub</h1>
+        <h1 className="font-bold text-[0.75rem] my-4 ">Trillion Game Media</h1>
         <div className="flex flex-col gap-2 h-full pb-16">
           <div>
             {sideBarList.map((item) => (
@@ -289,7 +289,7 @@ export default function Sidebar() {
                     src={r5logo}
                     width={40}
                     height={40}
-                    alt="R5 Design Hub"
+                    alt="Trillion Game Media"
                     loading="lazy"
                   />
                 </Link>

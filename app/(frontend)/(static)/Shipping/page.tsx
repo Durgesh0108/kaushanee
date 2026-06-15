@@ -20,7 +20,8 @@ const ShippingPolicy: React.FC = () => {
             At Kaushanee, we are committed to delivering your orders in a timely
             and efficient manner. Our shipping policy outlines the processes and
             timelines for shipping your favorite sarees and dress materials
-            directly to your doorstep.
+            directly to your doorstep. Kaushanee is owned and operated by
+            Trillion Game Media.
           </p>
 
           <h2 className="text-2xl font-semibold mt-6 mb-2">
@@ -99,10 +100,14 @@ const ShippingPolicy: React.FC = () => {
             For any questions or assistance regarding your order or shipping,
             please reach out to our customer support team at{" "}
             <a
-              href="mailto:support@kaushanee.com"
+              href="mailto:kaushanee@gmail.com"
               className="text-blue-600 hover:underline"
             >
-              support@kaushanee.com
+              kaushanee@gmail.com
+            </a>{" "}
+            or call us at{" "}
+            <a href="tel:+919876543210" className="text-blue-600 hover:underline">
+              9876543210
             </a>
             .
           </p>

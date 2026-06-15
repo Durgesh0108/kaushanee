@@ -94,7 +94,7 @@
 //     });
 //     y -= lineHeight;
 //     page.drawText("FROM", { x: leftMargin, y, size: 10, font: helveticaFont });
-//     page.drawText("R5 Design Hub", {
+//     page.drawText("Trillion Game Media", {
 //       x: leftMargin + 70,
 //       y,
 //       size: 10,
@@ -478,7 +478,7 @@ export async function POST(req: Request) {
     });
     y -= lineHeight;
     page.drawText("FROM", { x: leftMargin, y, size: 10, font: helveticaFont });
-    page.drawText("R5 Design Hub", {
+    page.drawText("Trillion Game Media", {
       x: leftMargin + 70,
       y,
       size: 10,
@@ -887,7 +887,7 @@ export async function POST(req: Request) {
 //     });
 //     y -= lineHeight;
 //     page.drawText("FROM", { x: leftMargin, y, size: 10, font: helveticaFont });
-//     page.drawText("R5 Design Hub", {
+//     page.drawText("Trillion Game Media", {
 //       x: leftMargin + 70,
 //       y,
 //       size: 10,

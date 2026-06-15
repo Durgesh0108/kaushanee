@@ -220,7 +220,7 @@ const Footer = () => {
             <div className="footer-bottom py-3 flex items-center justify-between gap-5 max-lg:justify-center max-lg:flex-col border-t border-line">
               <div className="left flex items-center gap-8">
                 <div className="">
-                  ©2024 Kaushanee. Designed By R5 Design Hub. All Right
+                  ©2024 Kaushanee. Designed By Trillion Game Media. All Right
                   Reserved.
                 </div>
               </div>

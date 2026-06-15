@@ -20,7 +20,8 @@ const TermsConditions: React.FC = () => {
           <p className="text-lg mb-4">
             Welcome to Kaushanee! By accessing or using our website, you agree
             to comply with and be bound by the following terms and conditions.
-            Please read them carefully before making any purchases.
+            Please read them carefully before making any purchases. Kaushanee is
+            owned and operated by Trillion Game Media.
           </p>
 
           <h2 className="text-2xl font-semibold mt-6 mb-2">
@@ -146,7 +147,7 @@ const TermsConditions: React.FC = () => {
             These Terms and Conditions shall be governed by and construed in
             accordance with the laws of India. Any disputes arising out of or in
             connection with these terms shall be subject to the exclusive
-            jurisdiction of the courts of [Your City], India.
+            jurisdiction of the courts of Mumbai, India.
           </p>
 
           <h2 className="text-2xl font-semibold mt-6 mb-2">
@@ -164,10 +165,14 @@ const TermsConditions: React.FC = () => {
             If you have any questions or concerns about these Terms and
             Conditions, please contact our customer support team at{" "}
             <a
-              href="mailto:support@kaushanee.com"
+              href="mailto:kaushanee@gmail.com"
               className="text-blue-600 hover:underline"
             >
-              support@kaushanee.com
+              kaushanee@gmail.com
+            </a>{" "}
+            or call us at{" "}
+            <a href="tel:+919876543210" className="text-blue-600 hover:underline">
+              9876543210
             </a>
             .
           </p>

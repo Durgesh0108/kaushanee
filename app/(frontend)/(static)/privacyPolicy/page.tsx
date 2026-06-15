@@ -20,7 +20,8 @@ const PrivacyPolicy: React.FC = () => {
             Welcome to Kaushanee. Your privacy is important to us, and we are
             committed to protecting your personal information. This Privacy
             Policy outlines how we collect, use, and safeguard your data when
-            you visit our website and make purchases.
+            you visit our website and make purchases. Kaushanee is owned and
+            operated by Trillion Game Media.
           </p>
 
           <h2 className="text-2xl font-semibold mt-6 mb-2">
@@ -96,10 +97,10 @@ const PrivacyPolicy: React.FC = () => {
             information at any time. If you wish to exercise these rights,
             please contact our support team at{" "}
             <a
-              href="mailto:support@kaushanee.com"
+              href="mailto:kaushanee@gmail.com"
               className="text-blue-600 hover:underline"
             >
-              support@kaushanee.com
+              kaushanee@gmail.com
             </a>
             .
           </p>
@@ -118,10 +119,14 @@ const PrivacyPolicy: React.FC = () => {
             If you have any questions or concerns about our Privacy Policy,
             please reach out to us at{" "}
             <a
-              href="mailto:support@kaushanee.com"
+              href="mailto:kaushanee@gmail.com"
               className="text-blue-600 hover:underline"
             >
-              support@kaushanee.com
+              kaushanee@gmail.com
+            </a>{" "}
+            or call us at{" "}
+            <a href="tel:+919876543210" className="text-blue-600 hover:underline">
+              9876543210
             </a>
             .
           </p>

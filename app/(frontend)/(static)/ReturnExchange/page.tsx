@@ -20,7 +20,8 @@ const ReturnExchangePolicy: React.FC = () => {
             At Kaushanee, we want you to be completely satisfied with your
             purchase. If for any reason you are not, we offer a straightforward
             return and exchange policy to ensure your shopping experience is
-            seamless and worry-free.
+            seamless and worry-free. Kaushanee is owned and operated by Trillion
+            Game Media.
           </p>
 
           <h2 className="text-2xl font-semibold mt-6 mb-2">
@@ -44,10 +45,10 @@ const ReturnExchangePolicy: React.FC = () => {
             <li>
               Contact our customer support team at{" "}
               <a
-                href="mailto:support@kaushanee.com"
+                href="mailto:kaushanee@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                support@kaushanee.com
+                kaushanee@gmail.com
               </a>{" "}
               within 7 days of receiving your order.
             </li>
@@ -93,10 +94,10 @@ const ReturnExchangePolicy: React.FC = () => {
             In the unlikely event that you receive a damaged or defective item,
             please contact our customer support team immediately at{" "}
             <a
-              href="mailto:support@kaushanee.com"
+              href="mailto:kaushanee@gmail.com"
               className="text-blue-600 hover:underline"
             >
-              support@kaushanee.com
+              kaushanee@gmail.com
             </a>
             . Provide your order number and details of the issue, along with
             photos of the damaged or defective product. We will arrange for a
@@ -121,10 +122,14 @@ const ReturnExchangePolicy: React.FC = () => {
             If you have any questions or concerns about our return and exchange
             policy, please reach out to our customer support team at{" "}
             <a
-              href="mailto:support@kaushanee.com"
+              href="mailto:kaushanee@gmail.com"
               className="text-blue-600 hover:underline"
             >
-              support@kaushanee.com
+              kaushanee@gmail.com
+            </a>{" "}
+            or call us at{" "}
+            <a href="tel:+919876543210" className="text-blue-600 hover:underline">
+              9876543210
             </a>
             .
           </p>
